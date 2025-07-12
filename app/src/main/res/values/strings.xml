@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semestral</string>
+
+        <!-- Textos usados en activity_login.xml -->
+        <string name="hint_correo">Correo electrónico</string>
+        <string name="hint_contrasena">Contraseña</string>
+        <string name="btn_iniciar">Iniciar sesión</string>
+        <string name="btn_ir_a_registro">Ir a registro</string>
+    </resources>
+
