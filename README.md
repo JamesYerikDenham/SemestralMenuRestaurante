@@ -9,4 +9,9 @@ Arquitectura basada en MVVM.
 
 Soporte para edición y visualización dinámica de notas.
 
-Persistencia de datos con DataStore Preferences.
+
+![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit1.jpeg)
+![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit2.jpeg)
+![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit3.jpeg)
+![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit4.jpeg)
+![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit5.jpeg)
