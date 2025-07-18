@@ -1,3 +1,10 @@
+Autores
+James Denham
+Juan Iriarte
+Nathaly Sanchez
+Alberto Rodriguez
+
+
 Aplicación móvil de notas desarrollada en Android con Jetpack Compose, diseñada para ofrecer una experiencia fluida, rápida y moderna al usuario. Permite crear, editar y organizar notas de forma eficiente, con almacenamiento local y una interfaz intuitiva adaptada a las últimas prácticas de diseño.
 
 Características destacadas (puedes mencionarlas en el README.md, no en la descripción corta):
