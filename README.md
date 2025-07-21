@@ -22,4 +22,9 @@ Soporte para edición y visualización dinámica de notas.
 ![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit3.jpeg)
 ![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit4.jpeg)
 ![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/ImagenGit5.jpeg)
-![](https://github.com/JamesYerikDenham/SemestralMenuRestaurante/blob/master/VideoGithub.mp4)
+
+
+[![Ver video en YouTube](https://img.youtube.com/vi/VyO1USrmyT4/0.jpg)](https://youtu.be/VyO1USrmyT4)
+
+👉 Haz clic en la imagen para ver el video demostrativo del proyecto en YouTube.
+
